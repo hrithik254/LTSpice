@@ -1,0 +1,31 @@
+Circuit: * C:\Users\anjan\OneDrive\Documents\LTspiceXVII\Circuit par Charcha\OpAmpDCOffsetDemo2.asc
+
+Direct Newton iteration for .op point succeeded.
+.step r1=100
+.step r1=200
+.step r1=300
+.step r1=400
+.step r1=500
+.step r1=600
+.step r1=700
+.step r1=800
+.step r1=900
+.step r1=1000
+
+Date: Mon Mar 08 12:00:32 2021
+Total elapsed time: 0.455 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2101
+traniter = 2090
+tranpoints = 1046
+accept = 1046
+rejected = 0
+matrix size = 36
+fillins = 29
+solver = Normal
+Matrix Compiler1: 2.92 KB object code size  0.6/0.3/[0.2]
+Matrix Compiler2: 3.40 KB object code size  0.3/0.4/[0.2]
+

@@ -1,0 +1,21 @@
+Circuit: * C:\Users\anjan\OneDrive\Documents\LTspiceXVII\Circuit par Charcha\Draft1.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Wed Mar 24 10:01:13 2021
+Total elapsed time: 0.109 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 16025
+traniter = 16022
+tranpoints = 8012
+accept = 4815
+rejected = 3197
+matrix size = 2
+fillins = 0
+solver = Normal
+Matrix Compiler1: 36 bytes object code size  0.0/0.0/[0.0]
+Matrix Compiler2: 96 bytes object code size  0.0/0.0/[0.0]
+
